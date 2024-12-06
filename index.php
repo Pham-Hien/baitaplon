@@ -9,6 +9,7 @@
 
 <body>
    <h1>Hello!</h1>
+   <h2>Hi!</h2>
 </body>
 
 </html>

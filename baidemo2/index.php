@@ -17,8 +17,8 @@
             <input type="text" id="username" name="username" placeholder="Nhập mã sinh viên hoặc email" required>
          </div>
          <div class="form-login">
-            <input type="password" id="password" name="password" placeholder="Nhập mật khẩu" required><i
-               id="togglePassword" class="fa-solid fa-eye"></i>
+            <input type="password" id="password" name="password" placeholder="Nhập mật khẩu" required>
+            <i id="togglePassword" class="fa-solid fa-eye" onclick="togglePasswordVisibility()"></i>
 
          </div>
          <button type="submit" class="btn-grad">ĐĂNG NHẬP</button>
